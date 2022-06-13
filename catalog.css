@@ -1,0 +1,55 @@
+.tart__one {
+    background: url(img/tart1.svg);
+    
+}
+.tart__two {
+    background-image: url(img/tart2.svg);
+}
+.tart__three {
+    background-image: url(img/tart3.svg);
+}
+.tart__four {
+    background-image: url(img/tart4.svg);
+}
+.tart__five {
+    background-image: url(img/tart5.svg);
+}
+.tart__six {
+    background-image: url(img/tart4.svg);
+}
+.cheese__one {
+    background-image: url(img/cheese1.svg);
+}
+.cheese__two {
+    background-image: url(img/cheese2.svg);
+}
+.cheese__three {
+    background-image: url(img/cheese3.svg);
+}
+.cheese__four {
+    background-image: url(img/cheese4.svg);
+}
+.cheese__five {
+    background-image: url(img/cheese5.svg);
+}
+.cheese__six {
+    background-image: url(img/cheese6.svg);
+}
+.mac__one {
+    background-image: url(img/mac1.svg);
+}
+.mac__two {
+    background-image: url(img/mac2.svg);
+}
+.mac__three {
+    background-image: url(img/mac3.svg);
+}
+.mac__four {
+    background-image: url(img/mac4.svg);
+}
+.mac__five {
+    background-image: url(img/mac5.svg);
+}
+.mac__six {
+    background-image: url(img/mac6.svg);
+}

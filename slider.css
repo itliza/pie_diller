@@ -1,0 +1,14 @@
+body {
+    background: #ffefece1;
+}
+.slider__container {
+    display: flex;
+    justify-content: center;
+}
+#pictures {
+    height: 80vh;
+}
+.btn {
+    font-family: 'Lora', serif;
+    
+}
